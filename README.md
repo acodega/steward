@@ -29,7 +29,7 @@ With the AI of your choice, start each day with a daily briefing prompt. Point y
 Give me my daily briefing.
 ```
 
-Personally, I use the ChatGPT desktop app on Mac. In the app, I have a Projects named "My Daily Briefing" pointed at my Notes folder, and use a scheduled prompt on weekdays with the above prompt text. 
+Personally, I use the ChatGPT desktop app on Mac. In the app, I have a Project named "My Daily Briefing" pointed at my Notes folder, and use a scheduled prompt on weekdays with the above prompt text. 
 
 ## Using The Daily Note
 *Each day:*
