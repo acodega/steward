@@ -21,21 +21,16 @@ Importantly, it isn't making decisions for you or managing your projects. It's t
 ## Getting Started
 To get started, use the [daily-note-template.md](https://github.com/acodega/steward/blob/main/daily-note-template.md) in your app of choice. If your app supports Markdown, you can drop the file into your template folder. ([Obsidian.md](https://obsidian.md/) is recommended)
 
-Second, with the AI of your choice, start each day with a daily briefing prompt. It's better if your AI can automatically read your daily notes folder, for example by using Cursor, but for the first week you can simply paste your notes and then the prompt below:
+Place AGENTS.md at the root of your notes folder.
+
+With the AI of your choice, start each day with a daily briefing prompt. Point your AI agent at your notes folder. It will read AGENTS.md automatically. Then simply use this prompt:
 
 ```
-You are my executive function assistant.
-
-Review this week's/yesterday's daily note[s] and provide my Morning Briefing:
-
-1. Forgotten commitments.
-2. Things I should prioritize today.
-3. Information I am likely to have lost context on.
-4. Items I am waiting on.
-5. Anything that appears repeatedly important.
-
-Keep the response concise.
+Give me my daily briefing.
 ```
+
+Personally, I use the ChatGPT desktop app on Mac. I keep a Projects folder pointed at my Notes folder, and use a scheduled prompt on weekdays with the above prompt text. 
+
 ## Using The Daily Note
 *Each day:*
 Create or open the daily note.
